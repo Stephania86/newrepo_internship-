@@ -12,6 +12,7 @@ from time import sleep
 
 #Url https://gettop.us/shop/?orderby=rating opens page with results sorted by Rating
 
+#intern Work · Stephania86/newrepo_internship-@479d732 · GitHub
 
 
 @given('Open Gettop Website')
